@@ -1,0 +1,77 @@
+<div itemscope itemtype="http://schema.org/Event">
+  <div class="hero">
+    <meta itemprop="url" content="https://www.koliseo.com/events/commit-2019">
+    <meta itemprop="image" content="https://2019.commit-conf.com/img/bg.jpg">
+    <div class="hero-text">
+      <h1 class="hero-title content" itemprop="name">
+        Commit <span class="hero-highlight">Conf</span>
+      </h1>
+      <meta itemprop="startDate" content="2019-06-05">
+      <span class="hero-body content">Madrid, 22-23 Nov</span>
+      <div class="content numbers">
+        <div class="number-and-text">
+          <div class="number">150</div>
+          <div class="text">{{i18n "TalksAndLabs"}}</div>
+        </div>
+        <div class="number-and-text">
+          <div class="number">45</div>
+          <div class="text">{{i18n "Communities"}}</div>
+        </div>
+        <div class="number-and-text">
+          <div class="number">2000</div>
+          <div class="text">{{i18n "Attendees"}}</div>
+        </div>
+      </div>
+    </div>
+    <img class="svg-hr" src="/img/svg-hr.svg"/>
+  </div>
+  <div class="home-highlight">
+    <section class="content">
+      <h1>{{ i18n "TheEvent" }}</h1>
+      <div class="two-columns" itemprop="description">
+        {{i18n "EventDesc" | safeHTML }}
+      </div>
+      <p class="actions">
+        <a
+        class="button primary"
+        href="https://www.koliseo.com/events/commit-2019/r4p/5106829466009600"
+        >
+          {{i18n "SubmitYourTalk"}}
+        <span class="button-small">{{i18n "CallForPapersWillOpenSoon"}}</span>
+        </a>
+        <a
+        class="button"
+        href="https://www.koliseo.com/events/commit-2019"
+        >
+          {{i18n "GetYourTicket"}} <span class="button-small">{{i18n "TicketsAvailableSoon"}}</span>
+        </a>
+        <a
+        class="button"
+        href="https://docs.google.com/forms/d/135GG1DPI8L2GwuvOrNuaItx5jhWx_LnSEDECop8YaBI"
+        target="_blank"
+        >
+          {{i18n "DiversityTickets"}} <span class="button-small">{{i18n "DiversityTicketsDeadline"}}</span>
+        </a>
+      </p>
+    </section>
+  </div>
+
+  {{ partial "r4p.html" . }}
+
+  <hr />
+
+  {{ partial "techshessions.html" . }}
+
+  {{ partial "communities.html" . }}
+
+  <img
+    src="/img/communities-hr.jpg"
+    alt="{{i18n "OurCommunities"}}"
+    class="img-hr communities-hr"
+  />
+
+  {{ partial "location.html" . }}
+
+  {{ partial "mail-list.html" . }}
+
+</div>

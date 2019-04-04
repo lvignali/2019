@@ -1,0 +1,294 @@
+# menu
+[Tickets]
+other = 'Tickets'
+[Location]
+other = 'Location'
+[Sponsors]
+other = 'Sponsors'
+[Blog]
+other = 'Blog'
+[PastEdition]
+other = '2018'
+
+# footer
+[AboutUs]
+other = 'About us'
+[TheTeam]
+other = 'The team'
+[Contact]
+other = 'Contact'
+[Links]
+other = 'Links'
+
+# The event
+[TheEvent]
+other = 'The IT landscape from Spain, distilled'
+[EventDesc]
+other = '<p class="highlight">Commit is the conference where we get together to discuss different approaches to our way of developing and managing software. Come with us for two days of sharing and learning about all things IT, and an opportunity to break your routine and experience something new.</p><p>Come for the foosball, the retro arcade and the hobbit-sized Jenga. Come for the networking. Bring your friends, make some new.</p><p>We are excited to have you here.</p>'
+[GetYourTicket]
+other = 'Tickets'
+[SubmitYourTalk]
+other = 'Send Your Talk'
+[CallForPapersIsOpen]
+other = 'The Call for Papers is Open' 
+[CallForPapersWillOpenSoon]
+other = 'The Call for Papers opens on April 16th'
+[CallForPapersIsClosed]
+other = 'The Call for Papers is now closed' 
+[TicketsAvailableNow]
+other = 'Last Tickets Available'
+[TicketsAvailableSoon]
+other = 'Tickets are available from april 22th'
+[DiversityTickets]
+other = "Diversity Tickets"
+[DiversityTicketsDeadline]
+other = "Application deadline: September 30th"
+
+# Location
+[HowToGetThere]
+other='How To Get There'
+[TransportDesc]
+other = 'Our parking has limited capacity, and we will be quite a few. We recommend using public transport, which is surprisingly simple'
+[ViewRoute]
+other = 'Click to see this route'
+[Shuttles]
+other = 'Free Shuttles'
+[ShuttlesDesc]
+other = 'We provide a free shuttle service to/from Plaza de España that takes 20 minutes to do a one-way trip. We have adjusted the schedule according to our experience, but we cannot guarantee seats for everyone in every shuttle. We will publish the timetable and more details in our <a href="https://blog.commit-conf.com/" target="_blank">blog</a>.'
+[MapAdvice]
+other = '<b>THIS IS NOT THE SAME AS "CAMPUS DE MONCLOA"</b>. Please, check the instructions from your GPS.'
+[ViewOnGoogleMaps]
+other = 'Open in Google Maps'
+
+# Sponsoring
+[BecomeASponsor]
+other = 'Become a <span class="hero-highlight">Sponsor</span>'
+[GetInvolved]
+other = "Get Involved"
+[BecomeASponsorDesc]
+other = 'Get involved in the event that gathers the IT talent of a country together.'
+[GetInContact]
+other = 'Get in contact'
+
+# Communities
+[OurCommunities]
+other = 'Our Communities'
+[OurCommunitiesDesc]
+other = 'This event is only possible because of the invaluable content and effort contributed by our communities.'
+[AddYourComunity]
+other = 'Is your community missing? <a href="mailto:info@commit-conf.com">Contact us</a>'
+
+# R4P
+[BecomeASpeaker]
+other = "If there is something that keeps you awake at night, you don't need to be an expert to share it. Get involved and send your talk to become a part of Commit."
+
+# Tech SHEssions
+[TechSHEssions]
+other = "Tech SHEssions"
+[TechSHEssionsDesc]
+other = "At Commit we believe <b>diversity is very important</b>. That's why two years ago we started a program seeking to empower tech women in order to help them reach the confidence to participate actively in tech communities. In the long term we would like these women to be referents in their communities and the IT sector."
+[ViewMore]
+other = "View more"
+
+# Stats
+[Attendees]
+other = 'Attendees'
+[Communities]
+other = 'Communities'
+[TalksAndLabs]
+other = 'Talks and Labs'
+
+# CoC
+[CodeOfConduct]
+other = 'Code of Conduct'
+[CodeOfConductCredits]
+other = 'Original source and credits'
+
+# The team
+[TheTeamSubtitle]
+other = 'Who organizes Commit?'
+[TheTeamDesc]
+other = "Commit is an event managed by a team of women, men, Canary Islanders, Italians, Galicians, Germans, nerds, Excel addicts, Android and iPhone fans... That's a total of five people."
+
+# Maillist
+[SubscribeToList]
+other = 'Subscribe to our mailing list'
+[SubscribeDesc]
+other = 'Get notified when we announce changes or publish the final agenda. You may unsubscribe from these communications at any time, and we do not share your information with third parties.'
+[Subscribe]
+other = 'Subscribe'
+
+[TermsAndConditions]
+other = 'Terms and Conditions'
+[TermsAndConditionsPrefix]
+other = 'To purchase tickets for Commit you must accept the following Terms and Conditions:'
+[TermsAndConditionsSuffix]
+other = 'The organization reserves the right to modify these Terms and Conditions at any time and without prior notice.'
+[TermsAndConditionsBullets]
+other = '''
+<li>Tickets can only be purchased by logging into Koliseo using one of the supported authentication providers.</li>
+<li>You can generate an invoice for your purchase through the <b>Create Invoice</b> link in the ticket page. You have until one month after the event to generate your invoice.</li>
+<li>In no case will the organization emit a refund, unless the event is cancelled or rescheduled.</li>
+<li>If you acquire a Student Ticket you will have to show your student ID at the event.</li>
+<li>You can transfer your ticket to someone else by introducing their data in the ticket page or contacting the organization to do the transfer on your behalf.</li>
+<li>The organization is not responsible for any transferred tickets. Your ticket will be validated in the Registration Point and it will be rejected if it has already been presented by someone else.</li>
+<li>With your ticket you will receive a badge and a bracelet at the registration desk. You must wear the bracelet always visible, or you will not be able to attend any talk or lab.</li>
+'''
+[OrganizerIdentification]
+other = 'Organizer Identification'
+[DataOwner]
+other = 'Fundación Extrema, owner of the website <a href="http://commit-conf.com">http://commit-conf.com</a> (hereinafter Commit), residing at 4ºI, 33 Villanueva St., 28001 Madrid; with CIF G86410040. Any inquiries may be directed to the address: <a href="mailto:info@commit-conf.com">info@commit-conf.com</a>.'
+
+# FAQ
+[FAQ]
+other = 'FAQ'
+[FAQLong]
+other = 'Frequently Asked Questions'
+[Registration]
+other = 'Registration'
+[Badges]
+other = 'Badges'
+[BadgesDesc]
+other = '''
+  <p>We are going to be strict with the access to the talks. With this in mind, at the registration desk we will give you:</p>
+  <ul class="square">
+    <li><p>A wristband: This wristband must be showed when asked by the organization at the doors of the tracks, and will be also necessary to pick your lunch box, and must be worn during the entire event. Neither in the pocket, nor in the backpack, nor at home.</p><p><b>Without a wristband, the organization reserves the right to prohibit access to the talks</b>. </p><p>If you want to use the same ticket for one person the first day and for another one the second, tell it at the info point before leaving the event and we will cut your wristband and give you another for the next day.</p></li>
+    <li>A badge: The only purpose of the badge is to facilitate networking. It is not mandatory to wear it, but will help when meeting new people.</li>
+  </ul>
+'''
+[AccessControl]
+other = 'Registration and access control'
+[AccessControlDesc]
+other = '
+  <p>We will use the Koliseo Access Control application to verify your ticket. 
+  You only have to <b>bring your ticket</b> with you <b>and wear the wristband we will give you</b> at the registration desk.</p>
+  <p>You can bring your ticket either printed out or in your mobile device.</p>
+  <p>Important: <b>make sure you are using the right ticket for Commit</b>. Last August Koliseo made some changes and the QR codes of the tickets changed. If you bought your ticket before August you should have received an email from Koliseo with the new ticket. To avoid any problem you can just download your new ticket from your profile on Koliseo.
+'
+[RegistrationLimits]
+other = "I won't be able to make it to the first session the first day. Will I be able to do the registration later?"
+[RegistrationLimitsDesc]
+other = '''
+  <p>The official registration period is specified in the agenda, but you can register anytime either Friday or Saturday at the Info Point in the main entrance.</p>
+  <p>Once you are registered for Friday you do not need to register again for Saturday, just wear your wristband and the badge we gave you, since <b>there will be people controlling</b>.</p>
+'''
+[TransferTicket]
+other = 'I want to transfer my ticket to someone else or change any data'
+[TransferTicketDesc]
+other = '''
+  <p>If you need to change any data for your ticket like the name or the t-shirt size, you can edit it in your ticket page in Koliseo. Some data (like t-shirt size or food preference) will be accumulated by the organization before the event, so make sure that you do not update these too close to the event date.</p>
+  <p>If you want to transfer your ticket to someone else, get in contact with <a target="_blank" href="mailto:info@commit-conf.com">the organization</a> specifying the username (in Koliseo) of the requested new ticket holder.</p>
+'''
+[TicketInvoice]
+other = 'I need an invoice for my ticket'
+[TicketInvoiceDesc]
+other = '''
+  <p>You can create the invoice yourself by using the <code>Create invoice</code> button that appears on your ticket page at <a target="_blank" href="https://www.koliseo.com" target="_blank">Koliseo</a> and filling in your data.</p>
+  <p>You can generate your invoice until up to 30 days after the event.</p>
+'''
+[Refund]
+other = 'I definitely will not be able to attend. Can I return or ask for a refund?'
+[RefundDesc]
+other = '<p><b>In no case will we refund or reimburse any purchased ticket</b>, but you can transfer it to someone else.</p>'
+[CannotFindTicket]
+other = 'I cannot find my ticket in Koliseo.'
+[CannotFindTicketDesc]
+other = '<p>This happens when the user signs in using a different account provider from the one used to purchase the ticket (for example, purchase using a Google account and log in later using Facebook). For Koliseo these would be two different accounts, even if they share e-mail.</p>'
+[StudentOrUnemployedRequirements]
+other = 'I am an student or unemployed. Do I get any discount? What would the requirements be?'
+[StudentOrUnemployedRequirementsDesc]
+other = '''
+  <p>If you are unemployed or if you are a student, you can buy a "Student/Unemployed" ticket with a reduced price.</p>
+  <p>At the registration desk you will have to show:</p>
+  <ul class="square">
+    <li>If you are a student, your student ID. If you cease to be a student by the day of the event, you can show your ID from the previous academic year.</li>
+    <li>If unemployed, bring an INEM document that shows that you were unemployed by the purchase date of your ticket.</li>
+  </ul>
+  <p>There is a limited number of these tickets.</p>
+  <p><b>If you finally will not be able to assist and are planning to transfer your ticket, the new attendee will need to fulfill the same requirements.</b></p>
+'''
+[BuyTicketAtTheVenue]
+other = 'Can I buy my ticket directly at the venue?'
+[BuyTicketAtTheVenueDesc]
+other = '<p>No, you can only buy tickets at Koliseo.com until the event is sold out.</p>'
+[Others]
+other = 'Others'
+[BringLaptop]
+other = 'Do I have to bring my laptop?'
+[BringLaptopDesc]
+other = '''
+  <p>If you want to go to a workshop, you will most probably need it. It could also be useful to take notes or review the speaker slides during the talk.</p>
+  <p>Please mind your laptop battery life. There will be power plugs in lab tracks, but not for talks.</p>
+'''
+[WorkshopRequirements]
+other = 'What do I need to attend to a workshop?'
+[WorkshopRequirementsDesc]
+other = '''
+  <p>Each speaker will specify their workshop requirements in the agenda: laptop, install a specific application, previous experience, etc.</p>
+'''
+[WorkshopsRequireRegistration]
+other = 'Do I need to register to attend a talk?'
+[WorkshopsRequireRegistrationDesc]
+other = '''
+  <p>You don't need to register for talks. Your ticket allows you to attend any talk or lab. Although we distribute the talks through the tracks the best way possible, some of them will be more crowded that others and you won't be able to get a seat for some specific talk.</p>
+  <p>To help us understand the talks with bigger expected audience, <b>you can specify in the agenda page the talks that you are more interested in</b>. The talks with bigger expected audience will be assigned the biggest rooms. <a href="https://twitter.com/commitconf/status/1044880810069938176" target="_blank">Here</a> you have a tweet with instructions on how to do this.</p>
+'''
+[IsMealIncluded]
+other = 'Is the meal included or should I bring it with me?'
+[IsMealIncludedDesc]
+other = '''
+  <p>The ticket includes coffee breaks, meals and the networking beer break. While buying your ticket, <b>specify any food preference or special need</b> (we will have vegetarian, vegan and gluten-free options).</p>
+  <p>We will be more than two thousand people, which gives limited alternatives of customization. The meal will be a lunch box with sandwiches, fruits and chocolate. As an alternative  you can use to the cafeteria of the University or bring your own meal from home.</p>
+'''
+[TransportOptions]
+other = 'Which options do I have to get there?'
+[TransportOptionsDesc]
+other = '''
+  <p>You can use the public transport, taxi, car or any of the free shuttles that the organization will provide during the event (both ways). The schedule for the shuttles will be published in the web one month before the event (approx.).</p>
+  <p><b>These shuttles are provided as a courtesy, and may not have enough capacity for everyone</b>.</p>
+  <p><b>We recommend not to go by car</b> because the parking space is very limited and might be full, in which case you would need to park somewhere else and take a taxi or the public transport.</p>
+'''
+[Cloakroom]
+other = 'Will you have a cloakroom?'
+[CloakroomDesc]
+other = '''
+  <p>We will have a storage space for your coat, helmet or suitcase. The cloakroom will always have someone from the organization or volunteers. However, <b>neither Commit or the University will be responsible for your belongings</b>.</p>
+'''
+
+# Cookies
+[CookiePolicyTitle]
+other = 'This web site uses cookies.'
+[CookiePolicyDesc]
+other = 'We use Cookies to improve our service. By using our website, you agree to our <a href="/en/cookies">Cookie Policy</a>.'
+[Accept]
+other = 'Accept'
+[PrivacyPolicyTitle]
+other = 'Privacy Policy'
+[PrivacyPolicyDesc]
+other = 'We collect information to provide better services. This page explains what information we collect and why we collect it.'
+[InfoWeCollect]
+other = 'Information that we collect'
+[InfoWeCollectDesc]
+other = 'We collect information in the following ways'
+[CookiesUse]
+other = '<b>Cookies</b>. We use cookies to aggregate user visits (using Google Analytics) to help us improve our service. You may configure your browser to block cookies from our website.'
+[SharingWithThirdParties]
+other = 'Sharing with third parties'
+[SharingWithThirdPartiesDesc]
+other = 'We <b>do not share personal information</b> with third parties unless one of the following circumstances applies'
+[SharingWithThirdPartiesLegalReasons]
+other = 'For <b>legal reasons</b>. We will share personal information if reasonably necessary to'
+[SharingWithThirdPartiesLegalProcess]
+other = 'Meet any applicable law or legal process.'
+[SharingWithThirdPartiesEnforceTerms]
+other = 'Enforce applicable Terms of Service, including investigation of potential violations.'
+[SharingWithThirdPartiesProtection]
+other = 'Protect against harm our users or the public as required or permitted by law.'
+[Security]
+other = 'Security'
+[SecurityDesc]
+other = 'We work to protect your data from unauthorized access by encrypting our services using SSL.'
+[PrivacyPolicyChanges]
+other = 'Changes'
+[PrivacyPolicyChangesDesc]
+other = 'Our Privacy Policy may change. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes).'

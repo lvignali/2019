@@ -1,0 +1,24 @@
+{{ define "main"}}
+<section class="content">
+  <h1 class="lead">Page not found</h1>
+  <p class="highlight">
+    Sorry, but we could not find the page that you are looking for. <a href="/">Go to the homepage</a>
+  </p>
+  <div>
+    <img src="/img/404.jpg" class="not-found" />
+  </div>
+  {{  range $index, $element := $.Site.Data.helloworld }}
+    <div class="hello-world{{if ne $index 0}} hidden{{end}}">
+      <p>
+        In the meantime, this is how you write a Hello World for {{.language}}:
+      </p>
+      <pre>{{.code}}</pre>
+    </div>
+  {{ end }} 
+</section>
+{{ end }}
+
+{{ define "js" }}
+<script defer src="/js/404.js">
+</script>
+{{ end }}

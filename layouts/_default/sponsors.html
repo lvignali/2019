@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="hero small sponsors">
+  <div class="hero-text">
+    <div class="content">
+      <h1 class="hero-title">{{ i18n "BecomeASponsor" | safeHTML }}</h1>
+    </div>
+  </div>
+  <img class="svg-hr" src="/img/svg-hr.svg"/>
+</section>
+<section class="content">
+  <h1>{{i18n "GetInvolved"}}</h1>
+  <p>
+    {{ i18n "BecomeASponsorDesc" }}
+  </p>
+  <p class="actions">
+    <a class="button primary" href="mailto:info@commit-conf.com">{{i18n "GetInContact"}}</a>
+  </p>
+</section>
+{{ end }}

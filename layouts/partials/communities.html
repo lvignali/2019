@@ -1,0 +1,17 @@
+<section>
+  <img
+    src="/img/communities-hr.jpg"
+    alt="{{i18n "OurCommunities"}}"
+    class="img-hr flip communities-hr"
+  />
+  <div class="content">
+    <h2>{{i18n "OurCommunities"}}</h2>
+    <p>{{i18n "OurCommunitiesDesc"}}</p>
+    <div class="communities">
+      {{ range $.Site.Data.communities }}
+        <a href="{{.href | safeURL }}" target="_blank" class="community {{.name | replaceRE "[^a-zA-Z0-9]+" "-" }}" title="{{.name}}" rel="noopener noreferrer">{{.name}}</a>
+      {{ end }}
+    </div>
+    <div><small>{{i18n "AddYourComunity" | safeHTML}}</small></div>
+  </div>
+</section>

@@ -1,0 +1,13 @@
+items:
+  - name: Tickets
+    url: https://www.koliseo.com/events/commit-2019
+  - name: Location
+    url: /#location
+  - name: Sponsors
+    url: /sponsors
+  - name: FAQ
+    url: /faq
+  - name: Blog
+    url: https://blog.commit-conf.com
+  - name: PastEdition
+    url: https://2018.commit-conf.com

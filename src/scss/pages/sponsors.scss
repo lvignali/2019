@@ -1,0 +1,21 @@
+.sponsors-img {
+  display: block;
+  width: 270px;
+  height: auto;
+  margin: 0 2rem 2rem;
+}
+
+.sponsors {
+  background-image: url("/img/venue.jpg");
+  background-position: top;
+}
+
+@media #{$medium-up} {
+  .sponsors-img {
+    width: 350px;
+  }
+  .sponsors-text {
+    flex-grow: 1;
+    flex-basis: 0;
+  }
+}

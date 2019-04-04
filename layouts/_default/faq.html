@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+  <section class="content faq">
+    <h1 class="lead">{{ i18n "FAQLong" }}</h1>
+  </section>
+  <section class="section-content">
+    <div class="content">
+      <h2>{{i18n "Registration"}}</h2>
+      {{ partial "faq-entry.html" (dict "title" "Badges") }}
+      {{ partial "faq-entry.html" (dict "title" "AccessControl") }}
+      {{ partial "faq-entry.html" (dict "title" "RegistrationLimits") }}
+    </div>
+  </section>
+  <section class="section-content alt">
+    <div class="content">
+      <h2>{{i18n "Tickets"}}</h2>
+      {{ partial "faq-entry.html" (dict "title" "TransferTicket") }}
+      {{ partial "faq-entry.html" (dict "title" "TicketInvoice") }}
+      {{ partial "faq-entry.html" (dict "title" "Refund") }}
+      {{ partial "faq-entry.html" (dict "title" "CannotFindTicket") }}
+      {{ partial "faq-entry.html" (dict "title" "StudentOrUnemployedRequirements") }}
+    </div>
+  </section>
+  <section class="section-content">
+    <div class="content">
+      <h2>{{i18n "Others"}}</h2>
+      {{ partial "faq-entry.html" (dict "title" "RegistrationLimits") }}
+      {{ partial "faq-entry.html" (dict "title" "BuyTicketAtTheVenue") }}
+      {{ partial "faq-entry.html" (dict "title" "BringLaptop") }}
+      {{ partial "faq-entry.html" (dict "title" "WorkshopRequirements") }}
+      {{ partial "faq-entry.html" (dict "title" "WorkshopsRequireRegistration") }}
+      {{ partial "faq-entry.html" (dict "title" "IsMealIncluded") }}
+      {{ partial "faq-entry.html" (dict "title" "TransportOptions") }}
+      {{ partial "faq-entry.html" (dict "title" "Cloakroom") }}
+    </div>
+  </section>
+{{ end }}

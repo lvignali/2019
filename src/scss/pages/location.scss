@@ -1,0 +1,49 @@
+$map-border: 1px solid $gray-light;
+
+.map {
+  display: block;
+  background-position: 50% 50%;
+  height: 500px;
+  border-bottom: $map-border;
+  margin-top: $hr-margin;
+  margin-bottom: $hr-margin;
+  // signed url: https://console.cloud.google.com/google/maps-apis/apis/static-maps-backend.googleapis.com/staticmap?project=commit-conf&authuser=2&organizationId=610116638956&duration=PT1H?project=commit-conf&authuser=1&organizationId=610116638956&duration=PT1H
+  background-image: url('https://maps.googleapis.com/maps/api/staticmap?zoom=14&center=40.399567%2C-3.839917&size=1000x700&scale=2&language=en&markers=icon%3A%2Fimg%2Fmap-marker.svg%7C40.399567%2C-3.837917&maptype=roadmap&style=visibility%3Aon%7Clightness%3A40%7Cgamma%3A1.1%7Cweight%3A0.9&style=element%3Alabels%7Cvisibility%3Aoff&style=feature%3Awater%7Chue%3A0x0066ff&style=feature%3Aroad%7Cvisibility%3Aon&style=feature%3Aroad%7Celement%3Alabels%7Csaturation%3A-30&key=AIzaSyDPSnuXr6Ea-9-BBqY_jg2D0VOmk6DTOrM&signature=NFRd0RR6pmBL50TSglOrnvEhfcs=')
+}
+
+.transport-details {
+  @media #{$medium-up} {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+}
+
+.transport-item {
+  display: flex;
+  align-items: center;
+  padding: .5rem 0;
+  margin-right: 1.5rem;
+}
+
+.transport-separator {
+  margin: 0 0.5rem;
+}
+
+.transport {
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.metro, .bus {
+  margin-right: 1rem;
+  fill: $black;
+  width: 2rem;
+  height: 2rem;
+}
+
+.location-description {
+  padding: 1rem;
+  background: $blue-dark;
+  color: white;
+}

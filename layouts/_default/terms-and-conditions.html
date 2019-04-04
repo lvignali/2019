@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+<section class="content">
+  <h1 class="lead">{{ i18n "OrganizerIdentification"}}</h1>
+  <p>{{i18n "DataOwner" | safeHTML}}</p>
+  <h1 class="lead">{{i18n "TermsAndConditions"}}</h1>
+  <p>
+    {{i18n "TermsAndConditionsPrefix"}}
+  </p>
+  <ul class="square">
+    {{ i18n "TermsAndConditionsBullets" | safeHTML }}
+  </ul>
+  <p>
+    {{i18n "TermsAndConditionsSuffix"}}
+  </p>
+</section>
+
+{{ end }}

@@ -1,0 +1,294 @@
+# menu
+[Tickets]
+other = 'Entradas'
+[Location]
+other = 'Dónde'
+[Sponsors]
+other = 'Patrocinadores'
+[Blog]
+other = 'Blog'
+[PastEdition]
+other = '2018'
+
+# footer
+[AboutUs]
+other = 'Quiénes somos'
+[TheTeam]
+other = 'El equipo'
+[Contact]
+other = 'Contacto'
+[Links]
+other = 'Enlaces'
+
+# The event
+[TheEvent]
+other = 'El paisaje tecnológico de España, en concreto'
+[EventDesc]
+other = '<p class="highlight">Commit es la conferencia donde nos reunimos a discutir diferentes perspectivas en la forma de hacer y gestionar software. Ven con nosotros para vivir dos días compartiendo y aprendiendo todo lo que tiene la tecnología, y por la oportunidad de romper con la rutina y experimentar algo nuevo.</p></p>Vente por el futbolín, el arcade retro y la Jenga tamaño Hobbit. Vente por el networking. Tráete a tus amigos, y haz algunos nuevos.</p><p>Estamos encantados de tenerte aquí.</p>'
+[GetYourTicket]
+other = 'Consigue tu Entrada'
+[SubmitYourTalk]
+other = 'Envía tu charla'
+[CallForPapersIsOpen]
+other = 'El Call for Papers está Abierto'
+[CallForPapersWillOpenSoon]
+other = 'El Call for Papers abre el 16 de abril'
+[CallForPapersIsClosed]
+other = 'El Call for Papers está cerrado'
+[TicketsAvailableNow]
+other='Últimas entradas disponibles'
+[TicketsAvailableSoon]
+other='Disponibles a partir del 22 de abril'
+[DiversityTickets]
+other = "Entradas para la diversidad"
+[DiversityTicketsDeadline]
+other = "Fecha límite: 30 de septiembre"
+
+# Location
+[HowToGetThere]
+other='Cómo llegar'
+[TransportDesc]
+other = 'El parking tiene capacidad limitada, y seremos bastantes. Recomendamos usar el transporte público, que es sorprendentemente simple'
+[ViewRoute]
+other = 'Haz clic para ver esta ruta'
+[Shuttles]
+other = 'Shuttles gratuitos'
+[ShuttlesDesc]
+other = 'Ponemos disponibles unos autobuses gratuitos que salen desde/hacia Plaza de España y tardan unos 20 minutos en hacer el trayecto. Hemos ajustado el horario de acuerdo a nuestra experiencia, pero no podemos garantizar asientos para todos en todos los autobuses. Más detalles y horarios en nuestro <a href="https://blog.commit-conf.com/como-llegar-a-commit/" target="_blank">blog</a>.'
+[MapAdvice]
+other = '<b>ESTO NO ES LO MISMO QUE "CAMPUS DE MONCLOA".</b> Por favor, comprueba las instrucciones de tu GPS.'
+[ViewOnGoogleMaps]
+other = 'Ver en Google Maps'
+
+# Sponsoring
+[BecomeASponsor]
+other = 'Conviértete en <span class="hero-highlight">patrocinador</span>'
+[GetInvolved]
+other = "Involúcrate"
+[BecomeASponsorDesc]
+other = 'Implícate en el evento que junta todo el talento IT de un país.'
+[GetInContact]
+other = 'Contáctanos'
+
+# Communities
+[OurCommunities]
+other = 'Nuestras comunidades'
+[OurCommunitiesDesc]
+other = 'Este evento sólo es posible gracias al contenido y esfuerzo contribuido por nuestras comunidades.'
+[AddYourComunity]
+other = '¿Falta tu comunidad? <a href="mailto:info@commit-conf.com">Contáctanos</a>'
+
+# R4P
+[BecomeASpeaker]
+other = "Si tienes algo que te tiene despierto por las noches, no tienes que ser un experto para compartirlo. Implícate y envíanos tu charla para convertirte en parte de Commit."
+
+# Tech SHEssions
+[TechSHEssions]
+other = "Tech SHEssions"
+[TechSHEssionsDesc]
+other = "En Commit creemos que <b>la diversidad en los eventos es muy importante</b>. Por eso, llevamos dos años con un programa que busca empoderar mujeres técnicas para que se atrevan a participar activamente en las comunidades técnicas. A largo plazo, nos gustaría que estas mujeres fueran referentes en sus comunidades y el sector IT."
+[ViewMore]
+other = "Ver más"
+
+# Stats
+[Attendees]
+other = 'Asistentes'
+[Communities]
+other = 'Comunidades'
+[TalksAndLabs]
+other = 'Charlas y Labs'
+
+# CoC
+[CodeOfConduct]
+other = 'Código de conducta'
+[CodeOfConductCredits]
+other = 'Fuente original y créditos'
+
+# The team
+[TheTeamSubtitle]
+other = '¿Quién organiza Commit?'
+[TheTeamDesc]
+other = 'Commit es un evento gestionado por mujeres, hombres, canarios, italianos, gallegos, alemanes, informáticos, exceldependientes, fans de Android y iPhone... Eso hace un total de cinco personas.'
+
+# Maillist
+[SubscribeToList]
+other = 'Suscríbete a nuestra lista de correo'
+[SubscribeDesc]
+other = 'Recibe una notificación cuando anunciemos cambios o publiquemos la agenda final. Puedes desuscribirte de estas comunicaciones en cualquier momento y no compartimos tus datos con terceras partes.'
+[Subscribe]
+other = 'Suscribirme'
+
+[TermsAndConditions]
+other = 'Términos y condiciones'
+[TermsAndConditionsPrefix]
+other = 'Para comprar entradas para Commit es necesario aceptar los siguientes Términos y Condiciones:'
+[TermsAndConditionsSuffix]
+other = 'La organización se reserva el derecho a modificar estos Términos y Condiciones en cualquier momento y sin necesidad de previo aviso.'
+[TermsAndConditionsBullets]
+other = '''
+<li>La compra sólo se puede realizar iniciando sesión en Koliseo a través de uno de los proveedores de autenticación soportados.</li>
+<li>Puedes generar una factura de tu compra a través del enlace <b>Crear Factura</b> en la página de la entrada. Tienes hasta un mes después del evento para generar tu factura.</li>
+<li>En ningún caso se realizarán devoluciones, a menos que el evento sea cancelado o reprogramado.</li>
+<li>Si adquieres una entrada de estudiante deberás enseñar en el registro algún tipo de documento que lo acredite (carnet o sustituto).</li>
+<li>Puedes ceder tu entrada a otra persona introduciendo sus datos en la página de la entrada o entrando en contacto con la organización para hacer la transferencia por ti.</li>
+<li>La organización no se hace responsable de entradas transferidas a otro usuario. Tu entrada se validará en el registro y será rechazada si ha sido presentada por otra persona con anterioridad.</li>
+<li>Presentando tu entrada recibirás un badge y una pulsera en el registro. Tienes que llevar la pulsera siempre puesta y visible, o no podrás acceder a las charlas y talleres.</li>
+'''
+[OrganizerIdentification]
+other = 'Identificación del organizador'
+[DataOwner]
+other = 'Fundación Extrema, dueño del sitio web <a href="http://commit-conf.com">http://commit-conf.com</a> (en adelante Commit), con sede en la calle Villanueva 33, 4º izqda, 28001 Madrid; y CIF G86410040. Cualquier incidencia debe ser dirigida a la dirección: <a href="mailto:info@commit-conf.com">info@commit-conf.com</a>.'
+
+# FAQ
+[FAQ]
+other = 'FAQ'
+[FAQLong]
+other = 'Preguntas frecuentes'
+[Registration]
+other = 'Registro'
+[Badges]
+other = 'Acreditaciones'
+[BadgesDesc]
+other = '''
+  <p>Seremos estrictos para el acceso a las charlas. Con esto en mente, en el registro se os dará:</p>
+  <ul class="square">
+    <li><p><b>Una pulsera</b>: Esta pulsera deberá mostrarse cuando alguien de la organización lo solicite en las puerta de las aulas y para la entrega de la comida, y llevarse puesta durante todo el evento. Ni en el bolsillo, ni en la mochila, ni en casa.</p><p><b>Si no se tiene la pulsera, la organización se reserva el derecho de impedir el acceso a las charlas</b>. </p><p>Si quieres usar una misma entrada para que una persona vaya el primer día y otra diferente el segundo, dilo en el mostrador de información antes de irte del evento y nos encargaremos de cortar tu pulsera y darte otra para el día siguiente.</p></li>
+    <li><b>Un badge</b>: El único cometido de los badges es facilitar el networking. No es obligatorio llevarlo, pero ayuda al conocer gente.</li>
+  </ul>
+'''
+[AccessControl]
+other = 'Registro y control de acceso'
+[AccessControlDesc]
+other = '
+  <p>Para acceder al evento se utilizará la aplicación de control de acceso de Koliseo. 
+  Lo único que tienes que traer es tu entrada y luego, <b>no perder la pulsera que te daremos</b>.
+  <p>Puedes traer la entrada impresa o en el móvil, eso da igual.
+  <p>Eso sí, <b>asegúrate de estar usando la entrada correcta</b>. En agosto se hicieron cambios en Koliseo que obligaron a regenerar los códigos de las entradas. Os enviaron un correo con las nuevas entradas, pero os podéis asegurar descargándolas de nuevo desde vuestro perfil de Koliseo.
+'
+[RegistrationLimits]
+other = "No podré llegar al comienzo de Commit o iré sólo el sábado. ¿Podré hacer el registro?"
+[RegistrationLimitsDesc]
+other = '''
+  <p>Aunque la hora principal del registro sea la que indicamos en la agenda, cualquier asistente podrá registrarse en cualquier momento del día, tanto el viernes como el sábado, en el mostrador del hall principal, justo en la entrada.</p>
+  <p>Si ya te has registrado el viernes no tendrás que volver a registrarte el sábado. Será suficiente que lleves puesto el badge y la pulsera que te habremos entregado, dado que <b>habrá controles durante el evento</b>.</p>
+'''
+[TransferTicket]
+other = 'Quiero ceder o cambiar algún dato de mi entrada'
+[TransferTicketDesc]
+other = '''
+  <p>Si necesitas cambiar datos de tu entrada, como el nombre o la talla de camiseta, puedes hacerlo accediendo a la página de tu entrada y editando allí mismo los datos. Ciertos datos (como la talla de camiseta o tipo de comida) serán consultados por la organización antes del día del evento, así que mejor no apures demasiado para cambiar los datos.
+  <p>Si lo que quieres es directamente transferirle tu entrada a otro usuario de Koliseo, ponte en contacto con <a href="mailto:info@commit-conf.com" target="_blank">la organización</a> indicando el nombre de usuario de Koliseo de la persona a la que quieres transferirle la entrada.
+'''
+[TicketInvoice]
+other = 'Necesito factura de mi entrada'
+[TicketInvoiceDesc]
+other = '''
+  <p>Si necesitas factura de tu entrada sólo tienes que utilizar el botón <code>Crear factura</code> que aparece en la página de tu entrada en <a target="_blank" href="https://www.koliseo.com">Koliseo</a>, indicando tus datos de facturación.
+  <p>Tendrás de plazo hasta 30 días después de la fecha del evento para poder generarla de forma automática.
+'''
+[Refund]
+other = 'Se me hace imposible asistir. ¿Puedo devolver mi entrada?'
+[RefundDesc]
+other = '<p>La entrada <b>no se puede devolver en ningún caso</b>, pero puedes cederla a otra persona.</p>'
+[CannotFindTicket]
+other = 'No consigo encontrar mi entrada en Koliseo.'
+[CannotFindTicketDesc]
+other = '<p>Esto sucede al abrir sesión con una cuenta de un proveedor diferente a la que se usó al comprar la entrada (por ejemplo, comprar con una cuenta de Google y acceder después con cuenta de Facebook). Para Koliseo se trata de dos cuentas distintas aunque compartan el mismo e-mail.</p>'
+[StudentOrUnemployedRequirements]
+other = 'Soy estudiante o desempleado. ¿Tengo algún descuento? ¿Qué requisitos necesito?'
+[StudentOrUnemployedRequirementsDesc]
+other = '''
+  <p>Si estás sin empleo o eres estudiante universitario, de FP o equivalente, puedes comprar una entrada de "Estudiante/Desempleado" a precio reducido.</p>
+  <p>El día del evento tendrás que enseñar en el control de acceso:</p>
+  <ul class="square">
+  <li>Si eres estudiante: un carnet u otro documento que acredite que lo eres. Si ya no serás estudiante para la fecha del evento, es suficiente que nos enseñes tu carnet del año académico anterior.</li>
+  <li>Si estás sin trabajo: un documento del INEM donde consta que estabas dado de alta como demandante de empleo a la fecha de la compra de tu entrada</li>
+  </ul>
+  <p>Hay un número limitado de este tipo de entradas.
+  <p><b>Si finalmente no puedes asistir y vas a ceder tu entrada a otra persona, ésta tendrá que cumplir los mismos requisitos.</b></p>
+'''
+[BuyTicketAtTheVenue]
+other = '¿Puedo comprar mi entrada directamente en el recinto?'
+[BuyTicketAtTheVenueDesc]
+other = '<p>No, sólo se podrán comprar las entradas en Koliseo hasta que se acaben.</p>'
+[Others]
+other = 'Otros'
+[BringLaptop]
+other = '¿Tendré que llevar mi portátil?'
+[BringLaptopDesc]
+other = '''
+  <p>Si piensas asistir a un taller, en la mayoría de los casos lo necesitarás. También podría ser útil para tomar apuntes o revisar las transparencias del ponente durante la charla.</p>
+  <p>En las aulas de talleres habrá enchufes para cargar tu portátil, pero no en las charlas.</p>
+'''
+[WorkshopRequirements]
+other = '¿Qué necesito para asistir a los workshops?'
+[WorkshopRequirementsDesc]
+other = '''
+  <p>Cada ponente indicará en la agenda los requisitos para asistir a su workshop: portátil, instalar algún programa, experiencia previa, etc.
+'''
+[WorkshopsRequireRegistration]
+other = '¿Necesito inscribirme a las charlas para poder asistir?'
+[WorkshopsRequireRegistrationDesc]
+other = '''
+  <p>No es necesario inscribirse a las charlas. Tu entrada te permite asistir a cualquier charla o taller. A pesar de distribuir de la mejor forma posible las charlas en las aulas, algunas se llenarán más que otras y podrías no encontrar sitio en la charla que querías ver.</p>
+  <p>Para ayudarnos a saber las charlas que van a tener más audiencia, <b>puedes indicar en la página de la agenda a qué charlas querrías asistir</b>. Las charlas más votadas se asignarán a las salas más grandes. <a href="https://twitter.com/commitconf/status/1044880810069938176" target="_blank">Aquí</a> tienes un tweet explicando cómo puedes ayudarnos.</p>
+'''
+[IsMealIncluded]
+other = '¿La comida está incluida o tendré que llevarla? '
+[IsMealIncludedDesc]
+other = '''
+  <p>En el precio de la entrada están incluidos los cafés, las comidas y el aperitivo del viernes. Cuando compres tu entrada, <b>especifica si tienes alguna preferencia de comida o necesidad especial</b> (dispondremos de menús vegetarianos, veganos o sin gluten).</p>
+  <p>Al ser más de dos mil personas, las posibilidades de customización son limitadas. La comida será principalmente constituida por sandwiches, frutas y chocolatinas ambos días. Como alternativa existe la posibilidad de usar a la cafetería de la universidad o traerte tu comida desde casa.</p>
+'''
+[TransportOptions]
+other = '¿Qué opciones tengo para llegar al evento?'
+[TransportOptionsDesc]
+other = '''
+  <p>Puedes llegar en transporte público, taxi, coche o a través de los shuttles gratuitos que la organización pondrá a disposición durante el evento, tanto para la ida como para la vuelta. Podrás ver los horarios de los shuttles en nuestra web una vez estén publicados (más o menos un mes antes de Commit).</p>
+  <p><b>Los shuttles son cortesía de la organización y podrían no alcanzar para todo el mundo</b>.</p>
+  <p>Asimismo, <b>recomendamos no venir en coche</b> porque el aparcamiento es muy limitado y podrías encontrarlo lleno, por lo que tendrías que ir a aparcar en otro sitio más lejano y luego coger el transporte público o un taxi.</p>
+'''
+[Cloakroom]
+other = '¿Habrá guardarropa?'
+[CloakroomDesc]
+other = '''
+  <p>Disponemos de un espacio para guardar tu abrigo, casco o maleta. El guardarropa estará vigilado todo el tiempo por la organización y los voluntarios. Aún así, <b>ni Commit ni la Universidad se hacen responsables de tus pertenencias</b>.</p>
+'''
+
+# Cookies
+[CookiePolicyTitle]
+other = 'Este sitio usa cookies'
+[CookiePolicyDesc]
+other = 'Usamos Cookies para ofrecerte un mejor servicio. Al usar este sitio web accedes a nuestra <a href="/cookies">Política de Cookies</a>.'
+[Accept]
+other = 'Acepto'
+[PrivacyPolicyTitle]
+other = 'Política de privacidad'
+[PrivacyPolicyDesc]
+other = 'Recopilamos información para mejorar nuestros servicios. Esta página explica qué información recogemos y para qué.'
+[InfoWeCollect]
+other = 'Información que recopilamos'
+[InfoWeCollectDesc]
+other = 'Recogemos información de las siguientes formas'
+[CookiesUse]
+other = '<b>Cookies</b>. Usamos cookies para recoger información de las visitas de los usuarios (usando Google Analytics) para ayudarnos a mejorar nuestro servicio. Puedes configurar tu navegador para bloquear las cookies de nuestra página web.'
+[SharingWithThirdParties]
+other = 'Compartir con terceras partes'
+[SharingWithThirdPartiesDesc]
+other = 'Nosotros <b>no compartimos información</b> con terceras partes salvo que aplique alguna de las siguientes circunstancias'
+[SharingWithThirdPartiesLegalReasons]
+other = 'Por <b>razones legales</b>. Compartiremos información personal si es razonablemente necesaria para'
+[SharingWithThirdPartiesLegalProcess]
+other = 'Cualquier ley aplicable o proceso legal.'
+[SharingWithThirdPartiesEnforceTerms]
+other = 'Asegurar la aplicación de los términos del servicio, incluyendo la investigación de posibles incumplimientos.'
+[SharingWithThirdPartiesProtection]
+other = 'Proteger contra daños a nuestros usuarios o al público según lo exija o lo permita la ley.'
+[Security]
+other = 'Seguridad'
+[SecurityDesc]
+other = 'Trabajamos para proteger el acceso a tus datos de forma no autorizada encriptando nuestras comunicaciones con SSL.'
+[PrivacyPolicyChanges]
+other = 'Cambios'
+[PrivacyPolicyChangesDesc]
+other = 'Nuestra política de privacidad puede cambiar. Informaremos de cualquier cambio en esta página y, si los cambios son significativos, usaremos otros métodos adicionales para notificar dichos cambios (incluyendo, por ejemplo, el envío de correos electrónicos).'

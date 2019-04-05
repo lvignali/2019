@@ -32,7 +32,7 @@ other = 'Envía tu charla'
 [CallForPapersIsOpen]
 other = 'El Call for Papers está Abierto'
 [CallForPapersWillOpenSoon]
-other = 'El Call for Papers abre el 16 de abril'
+other = 'El Call for Papers abre el 8 de abril'
 [CallForPapersIsClosed]
 other = 'El Call for Papers está cerrado'
 [TicketsAvailableNow]
@@ -42,7 +42,7 @@ other='Disponibles a partir del 22 de abril'
 [DiversityTickets]
 other = "Entradas para la diversidad"
 [DiversityTicketsDeadline]
-other = "Fecha límite: 30 de septiembre"
+other = "Solicítala antes del 30 de septiembre"
 
 # Location
 [HowToGetThere]

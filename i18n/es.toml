@@ -22,9 +22,10 @@ other = 'Enlaces'
 
 # The event
 [TheEvent]
-other = 'El paisaje tecnológico de España, en concreto'
+other = '¿Cuánto hace que no te dedicas dos días a ti mismo?'
 [EventDesc]
-other = '<p class="highlight">Commit es la conferencia donde nos reunimos a discutir diferentes perspectivas en la forma de hacer y gestionar software. Ven con nosotros para vivir dos días compartiendo y aprendiendo todo lo que tiene la tecnología, y por la oportunidad de romper con la rutina y experimentar algo nuevo.</p></p>Vente por el futbolín, el arcade retro y la Jenga tamaño Hobbit. Vente por el networking. Tráete a tus amigos, y haz algunos nuevos.</p><p>Estamos encantados de tenerte aquí.</p>'
+other = '<p class="highlight">Commit es una conferencia con ponentes españoles que incluye  todos los aspectos del desarrollo IT, desde técnicas de desarrollo de software hasta Big Data, Cloud o ML. Será en la Universidad San Pablo CEU in Madrid, el 22-23 de Noviembre. 
+<p>Es demasiado fácil dejarse llevar por el día a día y encontrar confort en la rutina de lo conocido. Todos somos vagamente conscientes de nuestra creciente deuda técnica, pero quién tiene tiempo para ponerse a investigar cómo arreglarla.</p><p>Commit es una pausa de dos días para pararse y reflexionar, el momento del año en el que nos reunimos a discutir ideas nuevas sobre el desarrollo de software, aparcando proyectos existentes por un momento. Para empezar de cero, y ver qué sale de ahí. Commit es tu oportunidad para crecer asistiendo a charlas, y talleres, y sesiones de unconference, para después poder volver con algo que no tenías al salir de casa. Es un evento donde encontrar amigos viejos y nuevos, y hablar de los proyectos del año que viene.</p></p>En serio, cuándo fue la última vez que te dedicaste dos días.</p>'
 [GetYourTicket]
 other = 'Consigue tu Entrada'
 [SubmitYourTalk]
@@ -64,9 +65,11 @@ other = 'Ver en Google Maps'
 [BecomeASponsor]
 other = 'Conviértete en <span class="hero-highlight">patrocinador</span>'
 [GetInvolved]
-other = "Involúcrate"
+other = "Implícate"
+[BecomeASponsorHighlight]
+other="Commit es una oportunidad única para conectar con tu audiencia, posicionar tu marca y ser parte en las conversaciones que arrancan cuando hay equipos que descubren juntos nuevas maneras de crear software."
 [BecomeASponsorDesc]
-other = 'Implícate en el evento que junta todo el talento IT de un país.'
+other = '<ul class="square"><li><b>Extiende tu red de contactos</b> con profesionales de un ecosistema rico y diverso de desarrollo de software.<li><b>Posiciona tu marca</b> cerca de las comunidades de IT en España.<li><b>Contacta con talento altamente cualificado</b>, para posiciones tanto junior como senior.<li><b>Recopila feedback sobre tus nuevos productos e iniciativas</b>, comparando con otras alternativas en el mercado.<li><b>Lead generation</b>: mantén control de los contactos hechos en tu booth usando nuestra aplicación Android de control de leads<li><b>Comparte lo que haces</b> &mdash; al final, eso es de lo que trata todo esto.</ul>'
 [GetInContact]
 other = 'Contáctanos'
 
@@ -86,7 +89,7 @@ other = "Si tienes algo que te tiene despierto por las noches, no tienes que ser
 [TechSHEssions]
 other = "Tech SHEssions"
 [TechSHEssionsDesc]
-other = "En Commit creemos que <b>la diversidad en los eventos es muy importante</b>. Por eso, llevamos dos años con un programa que busca empoderar mujeres técnicas para que se atrevan a participar activamente en las comunidades técnicas. A largo plazo, nos gustaría que estas mujeres fueran referentes en sus comunidades y el sector IT."
+other = "<p>En Commit creemos en <b>la diversidad en <abbr title='Science, Technology, Engineering and Mathematics'>STEM</abbr></b>. Desafortunadamente, la participación femenina en eventos relacionados con el software es menor de la que podría ser. Por ese motivo hace dos años arrancamos Tech SHEssions, un programa para ayudar a mujeres técnicas a superar el síndrome del impostor y participar más activamente en las comunidades.</p><p>Para leer más sobre el programa Tech SHEssions, <a href='https://2018.commit-conf.com/tech-shessions'>haz clic aquí</a>.</p>"
 [ViewMore]
 other = "Ver más"
 
@@ -114,7 +117,7 @@ other = 'Commit es un evento gestionado por mujeres, hombres, canarios, italiano
 [SubscribeToList]
 other = 'Suscríbete a nuestra lista de correo'
 [SubscribeDesc]
-other = 'Recibe una notificación cuando anunciemos cambios o publiquemos la agenda final. Puedes desuscribirte de estas comunicaciones en cualquier momento y no compartimos tus datos con terceras partes.'
+other = 'Recibe una notificación cuando anunciemos cambios o publiquemos la agenda final. Puedes desuscribirte de estas comunicaciones en cualquier momento. No compartiremos tus datos con terceras partes.'
 [Subscribe]
 other = 'Suscribirme'
 
@@ -150,10 +153,10 @@ other = 'Registro'
 other = 'Acreditaciones'
 [BadgesDesc]
 other = '''
-  <p>Seremos estrictos para el acceso a las charlas. Con esto en mente, en el registro se os dará:</p>
+  <p>Seremos estrictos para el acceso a las charlas. Con esto en mente, en el registro se te dará:</p>
   <ul class="square">
     <li><p><b>Una pulsera</b>: Esta pulsera deberá mostrarse cuando alguien de la organización lo solicite en las puerta de las aulas y para la entrega de la comida, y llevarse puesta durante todo el evento. Ni en el bolsillo, ni en la mochila, ni en casa.</p><p><b>Si no se tiene la pulsera, la organización se reserva el derecho de impedir el acceso a las charlas</b>. </p><p>Si quieres usar una misma entrada para que una persona vaya el primer día y otra diferente el segundo, dilo en el mostrador de información antes de irte del evento y nos encargaremos de cortar tu pulsera y darte otra para el día siguiente.</p></li>
-    <li><b>Un badge</b>: El único cometido de los badges es facilitar el networking. No es obligatorio llevarlo, pero ayuda al conocer gente.</li>
+    <li><b>Un badge</b>: El único cometido de los badges es facilitar el networking. No es obligatorio llevarlo, pero ayuda a conocer gente.</li>
   </ul>
 '''
 [AccessControl]
@@ -259,7 +262,7 @@ other = '''
 [CookiePolicyTitle]
 other = 'Este sitio usa cookies'
 [CookiePolicyDesc]
-other = 'Usamos Cookies para ofrecerte un mejor servicio. Al usar este sitio web accedes a nuestra <a href="/cookies">Política de Cookies</a>.'
+other = 'Usamos cookies para ofrecerte un mejor servicio. Para revisar nuestra política de cookies, <a href="/cookies">haz clic aquí</a>.'
 [Accept]
 other = 'Acepto'
 [PrivacyPolicyTitle]

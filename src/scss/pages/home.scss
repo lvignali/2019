@@ -71,19 +71,21 @@ $svg-separator-size: 2rem;
   overflow: hidden;
   text-indent: -100000px;
   white-space: nowrap;
-  opacity: .6;
-  margin: 0 1rem .5rem 0;
+  opacity: 0.6;
+  margin: 0 1rem 0.5rem 0;
   width: 120px;
   height: 60px;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
-  transition: opacity .3s ease-out;
+  transition: opacity 0.3s ease-out;
   filter: grayscale(100%);
-  &:hover, &:focus, &:active {
+  &:hover,
+  &:focus,
+  &:active {
     filter: none;
     opacity: 1;
-}
+  }
 }
 
 .number {
@@ -132,5 +134,5 @@ $svg-separator-size: 2rem;
 }
 
 .communities-hr {
-  max-height: 50px;
+  width: 100%;
 }

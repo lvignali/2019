@@ -22,9 +22,9 @@ other = 'Links'
 
 # The event
 [TheEvent]
-other = 'The IT landscape from Spain, distilled'
+other = 'How long since you had two days to yourself?'
 [EventDesc]
-other = '<p class="highlight">Commit is the conference where we get together to discuss different approaches to our way of developing and managing software. Come with us for two days of sharing and learning about all things IT, and an opportunity to break your routine and experience something new.</p><p>Come for the foosball, the retro arcade and the hobbit-sized Jenga. Come for the networking. Bring your friends, make some new.</p><p>We are excited to have you here.</p>'
+other = "<p class='highlight'>Commit is a conference that showcases all aspects of IT development with Spanish speakers, from software development techniques to Big Data, Cloud or ML. It will happen at Universidad San Pablo CEU in Madrid, on November 22-23.<p>It is way too easy to get carried away by the daily crunch, and get confort in the routine of the well-known. We are all vaguely aware of our growing technical debt, but who has the time to research and fix that.<p>Commit is a two-day break to stop and think, that time of the year where we sit down and discuss new ideas around software development, parking our existing projects for a moment. To start from scratch, and see what we get from there. Commit is your opportunity to grow by attending talks, and workshops, and unconference sessions, just so you can later come back home with something that was not there when you left. It's an event to meet old and new friends, and discuss your projects for the next year.<p>Seriously, when was the last time you had two days to yourself.</p>"
 [GetYourTicket]
 other = 'Tickets'
 [SubmitYourTalk]
@@ -65,8 +65,10 @@ other = 'Open in Google Maps'
 other = 'Become a <span class="hero-highlight">Sponsor</span>'
 [GetInvolved]
 other = "Get Involved"
+[BecomeASponsorHighlight]
+other="Commit is a unique opportunity to connect with your audience, position your brand and engage in the conversations that spark when teams are discovering new ways of creating  software."
 [BecomeASponsorDesc]
-other = 'Get involved in the event that gathers the IT talent of a country together.'
+other = "<ul class='square'><li><b>Extend your network</b> with professionals from a rich and diverse ecosystem of software development.<li><b>Position your brand</b> closer to the IT communities in Spain.<li><b>Recruit highly-qualified talent</b>, for both junior and senior positions.<li><b>Gather feedback about your new products and initiatives</b>, measuring yourself against other alternatives in the market.<li><b>Lead generation</b>: Keep track of contacts made in your booth using our Android app to capture leads<li><b>Share what you do</b> &mdash; in the end, that's what this is all about.</ul>"
 [GetInContact]
 other = 'Get in contact'
 
@@ -86,7 +88,7 @@ other = "If there is something that keeps you awake at night, you don't need to 
 [TechSHEssions]
 other = "Tech SHEssions"
 [TechSHEssionsDesc]
-other = "At Commit we believe <b>diversity is very important</b>. That's why two years ago we started a program seeking to empower tech women in order to help them reach the confidence to participate actively in tech communities. In the long term we would like these women to be referents in their communities and the IT sector."
+other = "At Commit we believe in <b>diversity in <abbr title='Science, Technology, Engineering and Mathematics'>STEM</abbr></b>. Unfortunately, the participation by women in software-related events is smaller that it could be. For this reason two years ago we started Tech SHEssions, a program to help technical women to leave the imposter syndrome behind and participate more actively in our communities. To read more about the Tech SHEssions program, <a href='https://2018.commit-conf.com/tech-shessions'>click here</a>."
 [ViewMore]
 other = "View more"
 
@@ -114,7 +116,7 @@ other = "Commit is an event managed by a team of women, men, Canary Islanders, I
 [SubscribeToList]
 other = 'Subscribe to our mailing list'
 [SubscribeDesc]
-other = 'Get notified when we announce changes or publish the final agenda. You may unsubscribe from these communications at any time, and we do not share your information with third parties.'
+other = 'Get notified when we announce changes or publish the final agenda. You may unsubscribe from these communications at any time. We will not share your information with third parties.'
 [Subscribe]
 other = 'Subscribe'
 

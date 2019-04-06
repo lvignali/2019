@@ -155,7 +155,7 @@ other = '''
   <p>We are going to be strict with the access to the talks. With this in mind, at the registration desk we will give you:</p>
   <ul class="square">
     <li><p>A wristband: This wristband must be showed when asked by the organization at the doors of the tracks, and will be also necessary to pick your lunch box, and must be worn during the entire event. Neither in the pocket, nor in the backpack, nor at home.</p><p><b>Without a wristband, the organization reserves the right to prohibit access to the talks</b>. </p><p>If you want to use the same ticket for one person the first day and for another one the second, tell it at the info point before leaving the event and we will cut your wristband and give you another for the next day.</p></li>
-    <li>A badge: The only purpose of the badge is to facilitate networking. It is not mandatory to wear it, but will help when meeting new people.</li>
+    <li>A badge: The only purpose of the badge is to facilitate networking. It is not mandatory to wear it, but will help to meet new people.</li>
   </ul>
 '''
 [AccessControl]
@@ -261,7 +261,7 @@ other = '''
 [CookiePolicyTitle]
 other = 'This web site uses cookies.'
 [CookiePolicyDesc]
-other = 'We use Cookies to improve our service. By using our website, you agree to our <a href="/en/cookies">Cookie Policy</a>.'
+other = 'We use cookies to improve our service. To review our cookie policy, <a href="/en/cookies">click here</a>.'
 [Accept]
 other = 'Accept'
 [PrivacyPolicyTitle]

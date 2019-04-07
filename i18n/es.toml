@@ -24,7 +24,7 @@ other = 'Enlaces'
 [TheEvent]
 other = '¿Cuánto hace que no te dedicas dos días a ti mismo?'
 [EventDesc]
-other = '<p class="highlight">Commit es una conferencia con ponentes españoles que incluye  todos los aspectos del desarrollo IT, desde técnicas de desarrollo de software hasta Big Data, Cloud o ML. Será en la Universidad San Pablo CEU in Madrid, el 22-23 de Noviembre. 
+other = '<p class="highlight">Commit es una conferencia con ponentes españoles que incluye  todos los aspectos del desarrollo IT, desde técnicas de desarrollo de software hasta Big Data, Cloud o ML. Será en la Universidad San Pablo CEU en Madrid, el 22-23 de Noviembre. 
 <p>Es demasiado fácil dejarse llevar por el día a día y encontrar confort en la rutina de lo conocido. Todos somos vagamente conscientes de nuestra creciente deuda técnica, pero quién tiene tiempo para ponerse a investigar cómo arreglarla.</p><p>Commit es una pausa de dos días para pararse y reflexionar, el momento del año en el que nos reunimos a discutir ideas nuevas sobre el desarrollo de software, aparcando proyectos existentes por un momento. Para empezar de cero, y ver qué sale de ahí. Commit es tu oportunidad para crecer asistiendo a charlas, y talleres, y sesiones de unconference, para después poder volver con algo que no tenías al salir de casa. Es un evento donde encontrar amigos viejos y nuevos, y hablar de los proyectos del año que viene.</p></p>En serio, cuándo fue la última vez que te dedicaste dos días.</p>'
 [GetYourTicket]
 other = 'Consigue tu Entrada'

@@ -51,12 +51,12 @@ $svg-separator-size: 2rem;
 .number-and-text {
   padding-right: 2rem;
   padding-bottom: 1rem;
-  text-align: center;
   .text {
     text-transform: lowercase;
     text-shadow: 1px 1px 1px #000;
   }
   @media #{$medium-up} {
+    text-align: center;
     padding-right: 3rem;
   }
 }

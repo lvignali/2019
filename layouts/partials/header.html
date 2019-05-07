@@ -10,9 +10,9 @@
           <a class="topbar-link" href="{{.url | safeURL | relLangURL }}">{{i18n .name}}</a>
         {{ end }}
         {{ if eq $.Site.Language.Lang "en" }}
-          <a class="topbar-link" href="{{ strings.TrimPrefix "/en" $.Page.URL }}">Español</a>
+          <a class="topbar-link" href="{{ strings.TrimPrefix "/en" $.RelPermalink }}">Español</a>
         {{ else }}
-          <a class="topbar-link" href="/en{{ $.Page.URL }}">English</a>
+          <a class="topbar-link" href="/en{{ $.RelPermalink }}">English</a>
         {{ end }}
       </div>
       <div class="topbar-dropdown-menu" ontouchstart>
@@ -24,9 +24,9 @@
             <a class="topbar-link" href="{{.url | safeURL | relLangURL }}">{{i18n .name}}</a>
           {{ end }}
           {{ if eq $.Site.Language.Lang "en" }}
-            <a class="topbar-link" href="{{ strings.TrimPrefix "/en" $.Page.URL }}">Español</a>
+            <a class="topbar-link" href="{{ strings.TrimPrefix "/en" $.RelPermalink }}">Español</a>
           {{ else }}
-            <a class="topbar-link" href="/en{{ $.Page.URL }}">English</a>
+            <a class="topbar-link" href="/en{{ $.RelPermalink }}">English</a>
           {{ end }}
         </div>
       </div>

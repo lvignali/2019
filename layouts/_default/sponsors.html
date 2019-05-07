@@ -8,6 +8,20 @@
   <img class="svg-hr" src="/img/svg-hr.svg" />
 </section>
 <section class="content">
+  <h1 class="highlight">{{i18n "OurSponsors"}}</h1>
+  {{ range $category := $.Site.Data.sponsors }}
+    <div class="sponsor-category">
+      <h2 class="category-name">{{ $category.name }}</h2>
+      <div class="category-sponsors {{ $category.name | replaceRE "\\s" "-" | lower }}">
+        {{ range $category.items }}
+        <a href="{{.href }}" alt="{{.name}}" title="{{.name}}" class="sponsor" target="_blank" rel="noopner noreferrer">
+          <img src="/img/sponsors/{{.logo}}" class="{{.name | replaceRE "\\s" "-" | lower}}">
+        </a>
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+  <hr/>
   <h1>{{i18n "GetInvolved"}}</h1>
   <p class="highlight">{{ i18n "BecomeASponsorHighlight" }}</p>
   <p>

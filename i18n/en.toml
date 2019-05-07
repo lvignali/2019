@@ -71,6 +71,8 @@ other="Commit is a unique opportunity to connect with your audience, position yo
 other = "<ul class='square'><li><b>Extend your network</b> with professionals from a rich and diverse ecosystem of software development.<li><b>Position your brand</b> closer to the IT communities in Spain.<li><b>Recruit highly-qualified talent</b>, for both junior and senior positions.<li><b>Gather feedback about your new products and initiatives</b>, measuring yourself against other alternatives in the market.<li><b>Lead generation</b>: Keep track of contacts made in your booth using our Android app to capture leads<li><b>Share what you do</b> &mdash; in the end, that's what this is all about.</ul>"
 [GetInContact]
 other = 'Get in contact'
+[OurSponsors]
+other = 'Our Sponsors'
 
 # Communities
 [OurCommunities]

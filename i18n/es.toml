@@ -72,6 +72,8 @@ other="Commit es una oportunidad única para conectar con tu audiencia, posicion
 other = '<ul class="square"><li><b>Extiende tu red de contactos</b> con profesionales de un ecosistema rico y diverso de desarrollo de software.<li><b>Posiciona tu marca</b> cerca de las comunidades de IT en España.<li><b>Contacta con talento altamente cualificado</b>, para posiciones tanto junior como senior.<li><b>Recopila feedback sobre tus nuevos productos e iniciativas</b>, comparando con otras alternativas en el mercado.<li><b>Lead generation</b>: mantén control de los contactos hechos en tu booth usando nuestra aplicación Android de control de leads<li><b>Comparte lo que haces</b> &mdash; al final, eso es de lo que trata todo esto.</ul>'
 [GetInContact]
 other = 'Contáctanos'
+[OurSponsors]
+other = 'Nuestros patrocinadores'
 
 # Communities
 [OurCommunities]

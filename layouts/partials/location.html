@@ -1,6 +1,5 @@
 <section id="location" class="location">
   <div class="content" itemprop="location" itemscope itemtype="http://schema.org/Place">
-
     <h2>{{i18n "Location"}}</h2>
     <p class="address">
       <span itemprop="address">
@@ -17,7 +16,19 @@
         {{ i18n "ViewOnGoogleMaps" }}
       </a>
     </p>
+  </div>
   
+  <a
+    class="map"
+    title="{{i18n "ViewOnGoogleMaps"}}"
+    target="_blank"
+    href="https://goo.gl/maps/X5eoF"
+    rel="noopener noreferrer"
+  ></a>
+
+  <div class="content">
+    <h2>{{i18n "HowToGetThere"}}</h2>
+    <p>{{i18n "TransportDesc"}}.</p>
     <div class="transport-details">
       <div class="transport-item">
         <img src="/img/train.svg" class="metro" />
@@ -64,13 +75,12 @@
         </a>
       </div>
     </div>
+    <h2>{{i18n "IberiaDiscount"}}</h2>
+    <p>
+      {{ i18n "IberiaDiscountDesc" | safeHTML}}
+    </p>
+    <p>
+      {{ i18n "IberiaDiscountTerms"}}
+    </p>
   </div>
-
-  <a
-    class="map"
-    title="{{i18n "ViewOnGoogleMaps"}}"
-    target="_blank"
-    href="https://goo.gl/maps/X5eoF"
-    rel="noopener noreferrer"
-  ></a>
 </section>

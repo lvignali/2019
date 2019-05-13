@@ -13,11 +13,16 @@
 .category-sponsors {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-gap: 1rem;
+  grid-gap: 1.5rem;
 }
 
 .sponsor-category {
   margin-top: 2rem;
+}
+
+.sponsor-category-name {
+  @extend h3;
+  margin: auto 0;
 }
 
 .sponsor {

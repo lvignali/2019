@@ -12,10 +12,13 @@ $map-border: 1px solid $gray-light;
 }
 
 .transport-details {
+  margin-bottom: 1rem;
   @media #{$medium-up} {
+    margin-bottom: 2rem;
     display: flex;
     align-items: center;
     flex-wrap: wrap;
+
   }
 }
 

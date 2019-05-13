@@ -60,6 +60,16 @@ other = 'Ponemos disponibles unos autobuses gratuitos que salen desde/hacia Plaz
 other = '<b>ESTO NO ES LO MISMO QUE "CAMPUS DE MONCLOA".</b> Por favor, comprueba las instrucciones de tu GPS.'
 [ViewOnGoogleMaps]
 other = 'Ver en Google Maps'
+[IberiaDiscount]
+other = 'Descuento con Iberia'
+[IberiaDiscountDesc]
+other = 'Iberia ofrece un descuento del 10% para vuelos cuyo destino sea Madrid y cuyos billetes sean desde 5 días antes hasta 5 días después de la fecha de la celebración de Commit. 
+    Antes de finalizar la compra en <a href="https://www.iberia.com" target="_blank" rel="noopner noreferrer">www.iberia.com</a>, una vez seleccionados los vuelos,
+    debes usar el apartado “Tengo un código promocional” indicando el código <b>COMMIT19</b>.'
+[IberiaDiscountTerms]
+other = 'Esta oferta es aplicable exclusivamente en vuelos regulares con fecha cerrada (no
+    incluidos vuelos del Puente Aéreo) operados por Iberia, Iberia Express y Air Nostrum. Quedan fuera de este acuerdo las líneas con código compartido
+    (7000/5000/4000). En el caso de las reservas en las que no se incluya el código promocional antes de la finalización del proceso no será de aplicación dicho descuento.'
 
 # Sponsoring
 [BecomeASponsor]

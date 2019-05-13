@@ -73,6 +73,16 @@ other = "<ul class='square'><li><b>Extend your network</b> with professionals fr
 other = 'Get in contact'
 [OurSponsors]
 other = 'Our Sponsors'
+[OurSponsorsOffers]
+other = 'Sponsors job offers'
+[OurSponsorsOffersDesc]
+other = 'Our sponsors are hiring people. If you want to work in a modern company, interested in the product as much as in the developers, check out these offers.'
+[ViewOffers]
+other = 'View job offers'
+[Offers]
+other = 'Job offers'
+[OffersDesc]
+other = 'Our sponsors have some job offers, check them out.'
 
 # Communities
 [OurCommunities]

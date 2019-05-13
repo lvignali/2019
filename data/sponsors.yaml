@@ -8,6 +8,9 @@
     - name: Liferay
       logo: liferay.svg
       href: https://www.liferay.com/es/home
+      offerJob:
+        role: Consultant (Java EE)
+        location: Madrid, Spain
 - name: Collaborators
   items: 
     - name: Universidad San Pablo CEU

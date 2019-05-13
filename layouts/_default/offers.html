@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+  <section class="content offers">
+    <h1 class="lead">{{ i18n "Offers" }}</h1>
+    <p>{{ i18n "OffersDesc" }}</p>
+  </section>
+  <section class="section-content">
+    <div class="content">
+      {{ range $categories := $.Site.Data.sponsors }}
+        {{ range $sponsor := $categories.items }}
+          {{ if $sponsor.offerJob }}
+            {{ $normalizedSponsorName := $sponsor.name | replaceRE "-" "" | replaceRE "\\s" "-" }}
+            <article id="{{ $normalizedSponsorName }}" class="sponsor-offer">
+              <div class="offer-summary">
+                <a href="#{{ $normalizedSponsorName }}" class="sponsor-offer-link">
+                  <img src="/img/sponsors/{{$sponsor.logo}}" alt="{{$sponsor.name}}" title="{{$sponsor.name}}">
+                </a>
+                <div class="offer-short">
+                  <b class="offer-role">{{ $sponsor.offerJob.role }}</b>
+                  <span>{{ $sponsor.offerJob.location }}</span>
+                </div>
+              </div>
+              <div class="offer-desc">
+                {{ partial (printf "%s%s%s" "offers/" (lower $normalizedSponsorName) ".html") }}
+              </div>
+            </article>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </section>
+
+{{ end }}

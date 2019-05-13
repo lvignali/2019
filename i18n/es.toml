@@ -74,6 +74,16 @@ other = '<ul class="square"><li><b>Extiende tu red de contactos</b> con profesio
 other = 'Contáctanos'
 [OurSponsors]
 other = 'Nuestros patrocinadores'
+[OurSponsorsOffers]
+other = 'Ofertas de trabajo'
+[OurSponsorsOffersDesc]
+other = 'Nuestros patrocinadores están contratando gente. Si quieres trabajar en una empresa moderna a la que le interesa el producto tanto como los desarrolladores, échale un vistazo a las ofertas.'
+[ViewOffers]
+other = 'Ver las ofertas'
+[Offers]
+other = 'Ofertas de trabajo'
+[OffersDesc]
+other = 'Nuestros patrocinadores tienen algunas ofertas de trabajo, échales un vistazo.'
 
 # Communities
 [OurCommunities]

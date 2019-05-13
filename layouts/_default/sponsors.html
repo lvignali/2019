@@ -8,7 +8,7 @@
   <img class="svg-hr" src="/img/svg-hr.svg" />
 </section>
 <section class="content">
-  <h1 class="highlight">{{i18n "OurSponsors"}}</h1>
+  <h1>{{i18n "OurSponsors"}}</h1>
   {{ range $category := $.Site.Data.sponsors }}
     <div class="sponsor-category">
       <h2 class="category-name">{{ $category.name }}</h2>
@@ -21,6 +21,16 @@
       </div>
     </div>
   {{ end }}
+  <hr/>
+  <h1>{{i18n "OurSponsorsOffers"}}</h1>
+  <p>{{i18n "OurSponsorsOffersDesc"}}</p>
+  <p class="actions">
+      <a
+        class="button primary"
+        href="{{"/offers" | relLangURL}}"
+        >{{i18n "ViewOffers"}}</a
+      >
+    </p>
   <hr/>
   <h1>{{i18n "GetInvolved"}}</h1>
   <p class="highlight">{{ i18n "BecomeASponsorHighlight" }}</p>

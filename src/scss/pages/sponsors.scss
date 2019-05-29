@@ -23,6 +23,8 @@
 .sponsor-category-name {
   @extend h3;
   margin: auto 0;
+  margin-bottom: 1rem;
+  display: block;
 }
 
 .sponsor {
@@ -57,10 +59,11 @@
   margin-top: 2rem;
 }
 
+.sponsor-img {
+  max-height: 100px;
+}
+
 @media #{$medium-up} {
-  .sponsors-img {
-    width: 350px;
-  }
   .sponsors-text {
     flex-grow: 1;
     flex-basis: 0;
@@ -92,5 +95,8 @@
     display: grid;
     grid-template-columns: 1fr 3fr;
     grid-gap: 1rem;
+  }
+  .sponsor-category-name {
+    margin-bottom: auto;
   }
 }

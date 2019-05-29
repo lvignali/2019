@@ -11,6 +11,9 @@
       offerJob:
         role: Consultant (Java EE)
         location: Madrid, Spain
+    - name: Intelygenz
+      logo: intelygenz.jpg
+      href: https://intelygenz.com/
 - name: Collaborators
   items: 
     - name: Universidad San Pablo CEU

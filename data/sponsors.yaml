@@ -14,6 +14,9 @@
     - name: Intelygenz
       logo: intelygenz.jpg
       href: https://intelygenz.com/
+      offerJob:
+        role: Java Senior Developer
+        location: Madrid, Spain
 - name: Collaborators
   items: 
     - name: Universidad San Pablo CEU

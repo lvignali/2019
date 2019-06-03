@@ -106,6 +106,11 @@ other = '¿Falta tu comunidad? <a href="mailto:info@commit-conf.com">Contáctano
 # R4P
 [BecomeASpeaker]
 other = "Si tienes algo que te tiene despierto por las noches, no tienes que ser un experto para compartirlo. Implícate y envíanos tu charla para convertirte en parte de Commit."
+[TimeToReview]
+other = 'Tras dos meses muy intensos, donde hemos recibido más de 400 propuestas, ahora toca arremangarse y valorar todas las charlas con la ayuda de nuestras comunidades. Será complicado elegir, pero entre todos haremos nuestro mejor esfuerzo.'
+[AgendaExpectation]
+other = 'Una vez tengamos la valoración hecha empezaremos a crear la agenda del evento, que tendremos lista para anunciar a finales de julio.'
+
 
 # Tech SHEssions
 [TechSHEssions]

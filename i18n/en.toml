@@ -102,6 +102,10 @@ other = 'Is your community missing? <a href="mailto:info@commit-conf.com">Contac
 # R4P
 [BecomeASpeaker]
 other = "If there is something that keeps you awake at night, you don't need to be an expert to share it. Get involved and send your talk to become a part of Commit."
+[TimeToReview]
+other = "After a couple of very intense months where we received more than 400 talks, it's now time to review all the proposals together with the help of our communities. It's going to be a hard job but we will do our best to offer you an awesome agenda."
+[AgendaExpectation]
+other = 'We expect to have the agenda ready to be published by the end of July.'
 
 # Tech SHEssions
 [TechSHEssions]

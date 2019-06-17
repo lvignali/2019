@@ -17,6 +17,11 @@
       offerJob:
         role: Java Senior Developer
         location: Madrid, Spain
+- name: Bronze
+  items:
+    - name: Babel
+      logo: babel.svg
+      href: https://babel.es/es
 - name: Collaborators
   items: 
     - name: Universidad San Pablo CEU

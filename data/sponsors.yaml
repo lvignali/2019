@@ -22,6 +22,9 @@
     - name: Babel
       logo: babel.svg
       href: https://babel.es/es
+    - name: Profile
+      logo: profile.svg
+      href: https://profile.es/
 - name: Collaborators
   items: 
     - name: Universidad San Pablo CEU

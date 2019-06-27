@@ -25,6 +25,11 @@
     - name: Profile
       logo: profile.svg
       href: https://profile.es/
+- name: Supporter
+  items:
+    - name: RSI
+      logo: rsi.svg
+      href: http://www.ruralserviciosinformaticos.com/
 - name: Collaborators
   items: 
     - name: Universidad San Pablo CEU

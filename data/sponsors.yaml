@@ -3,6 +3,11 @@
     - name: Magnolia
       logo: magnolia.svg
       href: https://www.magnolia-cms.es/
+- name: Gold
+  items:
+    - name: Softtek
+      logo: softtek.svg
+      href: https://www.softtek.com/es/
 - name: Silver
   items: 
     - name: Liferay

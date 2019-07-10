@@ -8,6 +8,9 @@
     - name: Softtek
       logo: softtek.svg
       href: https://www.softtek.com/es/
+      offerJob:
+        role: Automatizador/a QA
+        location: Madrid, Spain
 - name: Silver
   items: 
     - name: Liferay

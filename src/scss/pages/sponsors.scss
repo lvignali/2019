@@ -63,6 +63,12 @@
   max-height: 100px;
 }
 
+.youtube {
+  height: 200px;
+  max-width: 100%;
+  width: 356px;
+}
+
 @media #{$medium-up} {
   .sponsors-text {
     flex-grow: 1;
@@ -89,6 +95,10 @@
     float: right;
     text-align: right;
     font-size: 100%;
+  }
+  .youtube {
+    height: 315px;
+    width: 560px;
   }
 }
 @media #{$large-up} {

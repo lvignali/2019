@@ -49,3 +49,6 @@
     - name: Renfe
       logo: renfe.png
       href: http://www.renfe.com/
+    - name: Manfred
+      logo: manfred.png
+      href: https://www.getmanfred.com/

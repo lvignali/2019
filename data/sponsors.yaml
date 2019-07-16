@@ -11,6 +11,9 @@
       offerJob:
         role: Automatizador/a QA
         location: Madrid, Spain
+    - name: Autentia
+      logo: autentia.svg
+      href: https://www.autentia.com/
 - name: Silver
   items: 
     - name: Liferay

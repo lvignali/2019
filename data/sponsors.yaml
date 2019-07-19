@@ -3,6 +3,9 @@
     - name: Magnolia
       logo: magnolia.svg
       href: https://www.magnolia-cms.es/
+      offerJob:
+        role: Senior Software Engineer
+        location: Madrid, Spain
 - name: Gold
   items:
     - name: Softtek

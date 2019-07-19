@@ -76,6 +76,10 @@ other = 'Iberia ofrece un descuento del 10% para vuelos cuyo destino sea Madrid 
 other = 'Esta oferta es aplicable exclusivamente en vuelos regulares con fecha cerrada (no
     incluidos vuelos del Puente Aéreo) operados por Iberia, Iberia Express y Air Nostrum. Quedan fuera de este acuerdo las líneas con código compartido
     (7000/5000/4000). En el caso de las reservas en las que no se incluya el código promocional antes de la finalización del proceso no será de aplicación dicho descuento.'
+[HotelDiscounts]
+other = 'Descuentos en hoteles'
+[EurostarsDiscount]
+other = '<b>Eurostars iHotel</b> ofrece un 10% de descuento para las noches del 21, 22 y 23 de noviembre. Usa el código promocional COMMIT reservando a través de su <a href="https://www.eurostarshotels.com/eurostars-i-hotel.html" target="_blank" rel="noopener noreferrer">web</a>.'
 
 # Sponsoring
 [BecomeASponsor]

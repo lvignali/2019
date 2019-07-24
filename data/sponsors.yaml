@@ -6,6 +6,9 @@
       offerJob:
         role: Senior Software Engineer
         location: Madrid, Spain
+    - name: Sopra Steria
+      logo: sopra.svg
+      href: https://www.soprasteria.es/es
 - name: Gold
   items:
     - name: Softtek

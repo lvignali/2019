@@ -9,6 +9,9 @@
     - name: Sopra Steria
       logo: sopra.svg
       href: https://www.soprasteria.es/es
+      offerJob:
+        role: Software Engineer
+        location: Madrid, Spain
 - name: Gold
   items:
     - name: Softtek
@@ -20,6 +23,9 @@
     - name: Autentia
       logo: autentia.svg
       href: https://www.autentia.com/
+      offerJob:
+        role: Java Developer
+        location: Madrid, Spain
 - name: Silver
   items: 
     - name: Liferay

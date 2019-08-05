@@ -9,6 +9,8 @@ other = 'Sponsors'
 other = 'Blog'
 [PastEdition]
 other = '2018'
+[Agenda]
+other = 'Agenda'
 
 # footer
 [AboutUs]
@@ -116,6 +118,18 @@ other = "If there is something that keeps you awake at night, you don't need to 
 other = "After a couple of very intense months where we received more than 400 talks, it's now time to review all the proposals together with the help of our communities. It's going to be a hard job but we will do our best to offer you an awesome agenda."
 [AgendaExpectation]
 other = 'We expect to have the agenda ready to be published by the end of July.'
+
+# Agenda
+[AgendaIsPublished]
+other = 'The agenda is already online'
+[TheAgenda]
+other = 'The agenda'
+[TheAgendaDesc]
+other = 'Choosing is always hard. We received lots of proposals, one better than the other. Thanks to the effort of the communities and the organization, and after many ratings, feedbacks, long nights of work and much caffeine, we finally have the agenda of Commit 2019. It looks awesome.'
+[ThanksForTheProposals]
+other = 'We want to thank everyone who submitted a proposal. If it could not be this year, we do not want you to lose your illusion. If your proposal has not been selected, it is OK. We encourage you to keep trying and hope to see your proposal in the future.'
+[GoToTheAgenda]
+other = 'Go to the agenda'
 
 # Tech SHEssions
 [TechSHEssions]

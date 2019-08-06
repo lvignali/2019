@@ -40,6 +40,9 @@
       offerJob:
         role: Java Senior Developer
         location: Madrid, Spain
+    - name: Orange
+      logo: orange.svg
+      href: https://www.orange.es/
 - name: Bronze
   items:
     - name: Babel

@@ -26,6 +26,9 @@
       offerJob:
         role: Java Developer
         location: Madrid, Spain
+    - name: The Cocktail
+      logo: the-cocktail.png
+      href: https://the-cocktail.com/
 - name: Silver
   items: 
     - name: Liferay

@@ -23,6 +23,7 @@
           {{ range $.Site.Data.menu.items }}
             <a class="topbar-link" href="{{.url | safeURL | relLangURL }}">{{i18n .name}}</a>
           {{ end }}
+          <a class="topbar-link" href="https://2018.commit-conf.com/">{{i18n "PastEdition"}}</a>
           {{ if eq $.Site.Language.Lang "en" }}
             <a class="topbar-link" href="{{ strings.TrimPrefix "/en" $.RelPermalink }}">Español</a>
           {{ else }}

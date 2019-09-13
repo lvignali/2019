@@ -29,6 +29,9 @@
     - name: The Cocktail
       logo: the-cocktail.png
       href: https://the-cocktail.com/
+    - name: ING
+      logo: ing.svg
+      href: https://www.ing.es/
 - name: Silver
   items: 
     - name: Liferay

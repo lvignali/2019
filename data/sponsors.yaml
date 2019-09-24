@@ -57,6 +57,9 @@
     - name: Profile
       logo: profile.svg
       href: https://profile.es/
+    - name: lastminute.com
+      logo: lastminute.svg
+      href: https://lmgroup.lastminute.com/
 - name: Supporter
   items:
     - name: RSI

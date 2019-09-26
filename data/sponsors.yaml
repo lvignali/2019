@@ -32,6 +32,9 @@
     - name: ING
       logo: ing.svg
       href: https://www.ing.es/
+    - name: Minsait
+      logo: minsait.svg
+      href: https://www.minsait.com/es
 - name: Silver
   items: 
     - name: Liferay
@@ -63,6 +66,9 @@
     - name: lastminute.com
       logo: lastminute.svg
       href: https://lmgroup.lastminute.com/
+    - name: Grupo MAS MOVIL
+      logo: grupomasmovil.png
+      href: https://www.grupomasmovil.com
 - name: Supporter
   items:
     - name: RSI

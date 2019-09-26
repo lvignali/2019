@@ -193,6 +193,9 @@
       }
     }
   }
+  .sponsor .grupo-mas-movil {
+    max-width: 75px;
+  }
 }
 @media #{$large-up} {
   .sponsor-category {

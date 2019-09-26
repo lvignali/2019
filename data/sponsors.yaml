@@ -49,6 +49,9 @@
     - name: Orange
       logo: orange.svg
       href: https://www.orange.es/
+      offerJob:
+        role: AWS Engineer
+        location: Madrid, Spain
 - name: Bronze
   items:
     - name: Babel

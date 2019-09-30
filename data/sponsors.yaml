@@ -69,6 +69,9 @@
     - name: Grupo MAS MOVIL
       logo: grupomasmovil.png
       href: https://www.grupomasmovil.com
+    - name: TrustYou
+      logo: trustyou.png
+      href: https://www.trustyou.com/
 - name: Supporter
   items:
     - name: RSI

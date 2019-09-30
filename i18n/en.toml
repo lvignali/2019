@@ -45,6 +45,8 @@ other = 'Tickets are available from april 22th'
 other = "Diversity Tickets"
 [DiversityTicketsDeadline]
 other = "Application deadline: September 30th"
+[DiversityTicketsClosed]
+other = "Submission deadline closed"
 
 # Location
 [HowToGetThere]

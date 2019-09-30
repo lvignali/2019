@@ -27,6 +27,9 @@ $button-primary-color: $white;
       color: $button-primary-color;
     } 
   }
+  &[disabled] {
+    background: darken($button-bg, 10%);
+  }
 }
 
 .button-small {

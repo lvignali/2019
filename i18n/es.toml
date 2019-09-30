@@ -46,6 +46,8 @@ other='Disponibles a partir del 22 de abril'
 other = "Entradas para la diversidad"
 [DiversityTicketsDeadline]
 other = "Solicítala antes del 30 de septiembre"
+[DiversityTicketsClosed]
+other = "El plazo de solicitud está cerrado"
 
 # Location
 [HowToGetThere]

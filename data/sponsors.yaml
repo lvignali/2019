@@ -55,6 +55,12 @@
       offerJob:
         role: AWS Engineer
         location: Madrid, Spain
+    - name: Sngular
+      logo: sngular.svg
+      href: https://www.sngular.com/
+    - name: Vector ITC
+      logo: vector-itc.svg
+      href: https://www.vectoritcgroup.com/
 - name: Bronze
   items:
     - name: Babel

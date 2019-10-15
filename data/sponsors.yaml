@@ -29,12 +29,18 @@
     - name: The Cocktail
       logo: the-cocktail.png
       href: https://the-cocktail.com/
+      offerJob:
+        role: Software Engineer
+        location: Madrid, Spain
     - name: ING
       logo: ing.svg
       href: https://www.ing.es/
     - name: Minsait
       logo: minsait.svg
       href: https://www.minsait.com/es
+    - name: Nielsen
+      logo: nielsen.png
+      href: https://www.nielsen.com/es/es/
 - name: Silver
   items: 
     - name: Liferay
@@ -61,6 +67,9 @@
     - name: Vector ITC
       logo: vector-itc.svg
       href: https://www.vectoritcgroup.com/
+      offerJob:
+        role: Desarrolladores Java, Front, Appian, Mobile y .NET
+        location: Madrid, Spain
 - name: Bronze
   items:
     - name: Babel
@@ -78,6 +87,9 @@
     - name: TrustYou
       logo: trustyou.png
       href: https://www.trustyou.com/
+    - name: Dinahosting
+      logo: dinahosting.svg
+      href: http://www.dinahosting.com/
 - name: Supporter
   items:
     - name: RSI

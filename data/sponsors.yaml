@@ -70,6 +70,9 @@
       offerJob:
         role: Desarrolladores Java, Front, Appian, Mobile y .NET
         location: Madrid, Spain
+    - name: atSistemas
+      logo: atsistemas.svg
+      href: https://www.atsistemas.com/es
 - name: Bronze
   items:
     - name: Babel

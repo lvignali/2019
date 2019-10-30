@@ -41,6 +41,9 @@
     - name: Nielsen
       logo: nielsen.png
       href: https://www.nielsen.com/es/es/
+      offerJob:
+        role: Software engineer
+        location: Madrid, Spain
 - name: Silver
   items: 
     - name: Liferay

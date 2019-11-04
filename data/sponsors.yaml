@@ -35,6 +35,9 @@
     - name: ING
       logo: ing.svg
       href: https://www.ing.es/
+      offerJob:
+        role: Senior Back-End Engineer
+        location: Madrid, Spain
     - name: Minsait
       logo: minsait.svg
       href: https://www.minsait.com/es

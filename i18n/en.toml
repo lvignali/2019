@@ -58,7 +58,7 @@ other = 'Click to see this route'
 [Shuttles]
 other = 'Free Shuttles'
 [ShuttlesDesc]
-other = 'We provide a free shuttle service to/from Plaza de España that takes 20 minutes to do a one-way trip. We have adjusted the schedule according to our experience, but we cannot guarantee seats for everyone in every shuttle. We will publish the timetable and more details in our <a href="https://blog.commit-conf.com/" target="_blank">blog</a>.'
+other = 'We provide a free shuttle service to/from Plaza de España that takes 20 minutes to do a one-way trip. We have adjusted the schedule according to our experience, but we cannot guarantee seats for everyone in every shuttle. We will publish the timetable and more details in our <a href="https://blog.commit-conf.com/como-llegar-a-commit-2019/" target="_blank">blog</a>.'
 [MapAdvice]
 other = '<b>THIS IS NOT THE SAME AS "CAMPUS DE MONCLOA"</b>. Please, check the instructions from your GPS.'
 [ViewOnGoogleMaps]

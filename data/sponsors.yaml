@@ -41,6 +41,9 @@
     - name: Minsait
       logo: minsait.svg
       href: https://www.minsait.com/es
+      offerJob:
+        role: Frontend Developer
+        location: Madrid, Spain
     - name: Nielsen
       logo: nielsen.png
       href: https://www.nielsen.com/es/es/

@@ -82,6 +82,9 @@
     - name: atSistemas
       logo: atsistemas.svg
       href: https://www.atsistemas.com/es
+      offerJob:
+        role: Frontend, Cloud, Mobile, QA, Solutions Architect
+        location: Spain
 - name: Bronze
   items:
     - name: Babel

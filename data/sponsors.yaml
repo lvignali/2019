@@ -73,6 +73,9 @@
     - name: Sngular
       logo: sngular.svg
       href: https://www.sngular.com/
+      offerJob:
+        role: Mobile Developer
+        location: Madrid, Spain
     - name: Vector ITC
       logo: vector-itc.svg
       href: https://www.vectoritcgroup.com/

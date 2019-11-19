@@ -49,6 +49,12 @@ other = "Solicítala antes del 30 de septiembre"
 [DiversityTicketsClosed]
 other = "El plazo de solicitud está cerrado"
 
+# Streaming
+[Streaming]
+other = 'Streaming'
+[GoToTheYoutubeChannel]
+other = 'Ir al canal de Youtube'
+
 # Location
 [HowToGetThere]
 other='Cómo llegar'

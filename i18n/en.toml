@@ -48,6 +48,12 @@ other = "Application deadline: September 30th"
 [DiversityTicketsClosed]
 other = "Submission deadline closed"
 
+# Streaming
+[Streaming]
+other = 'Streaming'
+[GoToTheYoutubeChannel]
+other = 'Go to the Youtube channel'
+
 # Location
 [HowToGetThere]
 other='How To Get There'

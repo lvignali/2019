@@ -49,11 +49,18 @@ other = "Solicítala antes del 30 de septiembre"
 [DiversityTicketsClosed]
 other = "El plazo de solicitud está cerrado"
 
+# Closing
+[ClosingTitle]
+other = '¿Cuánto hacía que no te dedicabas dos días a ti mismo?'
+[ClosingDesc]
+other = '<p class="highlight">Commit es una conferencia con ponentes españoles que incluye todos los aspectos del desarrollo IT, desde técnicas de desarrollo de software hasta Big Data, Cloud o ML. Se ha celebrado en la Universidad San Pablo CEU en Madrid, el 22-23 de Noviembre. 
+<p>Commit es nuestra pausa de dos días para pararse y reflexionar, el momento del año en el que nos reunimos a discutir ideas nuevas sobre el desarrollo de software, aparcando proyectos existentes por un momento. Nosotros sólo hemos creado el marco, un lugar donde nuestras comunidades han venido a compartir los proyectos que les mantienen despiertos por las noches. Ha sido abrumador, y ahora nos toca a todos prepararnos para nuestros proyectos del año que viene.</p></p>Gracias por haber estado ahí. Un fuerte abrazo, y volveremos a vernos en 2020.</p>'
+
 # Streaming
 [Streaming]
-other = 'Streaming'
+other = 'YouTube Channel'
 [GoToTheYoutubeChannel]
-other = 'Ir al canal de Youtube'
+other = 'Ir a nuestro canal de Youtube'
 
 # Location
 [HowToGetThere]
@@ -133,7 +140,7 @@ other = 'Una vez tengamos la valoración hecha empezaremos a crear la agenda del
 
 # Agenda
 [AgendaIsPublished]
-other = 'La agenda ya está online'
+other = 'Visita nuestra agenda'
 [TheAgenda]
 other = 'La agenda'
 [TheAgendaDesc]

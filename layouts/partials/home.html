@@ -27,9 +27,9 @@
   </div>
   <div class="home-highlight">
     <section class="content">
-      <h1>{{ i18n "TheEvent" }}</h1>
+      <h1>{{ i18n "ClosingTitle" }}</h1>
       <div itemprop="description">
-        {{i18n "EventDesc" | safeHTML }}
+        {{i18n "ClosingDesc" | safeHTML }}
       </div>
       <p class="actions">
         <a
@@ -39,10 +39,6 @@
         >
           {{i18n "TheAgenda"}}
           <span class="button-small">{{i18n "AgendaIsPublished"}}</span>
-        </a>
-        <a class="button" href="https://www.koliseo.com/events/commit-2019">
-          {{i18n "GetYourTicket"}}
-          <span class="button-small">{{i18n "TicketsAvailableNow"}}</span>
         </a>
         <a class="button" href="https://www.youtube.com/channel/UCd_1KHg4t2VKGsSDF8OD5Cw/videos?view=2&flow=grid&live_view=502&view_as=subscriber">
           {{i18n "Streaming"}}
@@ -66,6 +62,6 @@
   {{ partial "location.html" . }}
 
   <hr/>
-
+ 
   {{ partial "mail-list.html" . }}
 </div>

@@ -48,6 +48,16 @@ other = "Entradas para la diversidad"
 other = "Solicítala antes del 30 de septiembre"
 [DiversityTicketsClosed]
 other = "El plazo de solicitud está cerrado"
+[SummaryVideo]
+other = 'El vídeo resumen'
+[ViewSummaryVideo]
+other = 'Ve un resumen del evento'
+[ThePhotos]
+other = 'Las fotos'
+[ViewEventPhotos]
+other = 'Ve las fotos de esta edición'
+[NewDatesAnnouncement]
+other = 'Pronto anunciaremos las fechas de Commit 2020.'
 
 # Closing
 [ClosingTitle]
@@ -154,7 +164,7 @@ other = 'Ir a la agenda'
 [TechSHEssions]
 other = "Tech SHEssions"
 [TechSHEssionsDesc]
-other = "<p>En Commit creemos en <b>la diversidad en <abbr title='Science, Technology, Engineering and Mathematics'>STEM</abbr></b>. Desafortunadamente, la participación femenina en eventos relacionados con el software es menor de la que podría ser. Por ese motivo hace dos años arrancamos Tech SHEssions, un programa para ayudar a mujeres técnicas a superar el síndrome del impostor y participar más activamente en las comunidades.</p><p>Para leer más sobre el programa Tech SHEssions, <a href='https://2018.commit-conf.com/tech-shessions'>haz clic aquí</a>.</p>"
+other = "<p>En Commit creemos en <b>la diversidad en <abbr title='Science, Technology, Engineering and Mathematics'>STEM</abbr></b>. Desafortunadamente, la participación femenina en eventos relacionados con el software es menor de la que podría ser. Por ese motivo hace dos años arrancamos Tech SHEssions, un programa para ayudar a mujeres técnicas a superar el síndrome del impostor y participar más activamente en las comunidades.</p><p>Para leer más sobre el programa Tech SHEssions, <a href='https://techshessions.com'>haz clic aquí</a>.</p>"
 [ViewMore]
 other = "Ver más"
 

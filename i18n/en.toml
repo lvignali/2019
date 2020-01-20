@@ -47,6 +47,16 @@ other = "Diversity Tickets"
 other = "Application deadline: September 30th"
 [DiversityTicketsClosed]
 other = "Submission deadline closed"
+[SummaryVideo]
+other = 'Summary video'
+[ViewSummaryVideo]
+other = 'View a summary of the event'
+[ThePhotos]
+other = 'The photos'
+[ViewEventPhotos]
+other = 'View the photos of this edition'
+[NewDatesAnnouncement]
+other = 'Soon we will publish the dates of Commit 2020.'
 
 # Closing
 [ClosingTitle]
@@ -149,7 +159,7 @@ other = 'Go to the agenda'
 [TechSHEssions]
 other = "Tech SHEssions"
 [TechSHEssionsDesc]
-other = "At Commit we believe in <b>diversity in <abbr title='Science, Technology, Engineering and Mathematics'>STEM</abbr></b>. Unfortunately, the participation by women in software-related events is smaller that it could be. For this reason two years ago we started Tech SHEssions, a program to help technical women to leave the imposter syndrome behind and participate more actively in our communities. To read more about the Tech SHEssions program, <a href='https://2018.commit-conf.com/tech-shessions'>click here</a>."
+other = "At Commit we believe in <b>diversity in <abbr title='Science, Technology, Engineering and Mathematics'>STEM</abbr></b>. Unfortunately, the participation by women in software-related events is smaller that it could be. For this reason two years ago we started Tech SHEssions, a program to help technical women to leave the imposter syndrome behind and participate more actively in our communities. To read more about the Tech SHEssions program, <a href='https://techshessions.com/en'>click here</a>."
 [ViewMore]
 other = "View more"
 
